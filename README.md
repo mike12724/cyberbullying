@@ -1,6 +1,8 @@
 # cyberbullying
 CS229 Final Project
 
+Please view in raw format
+
 All files provided and ready to run simulator.py
 
 Read step 4 for simulator use
@@ -25,10 +27,9 @@ If you wish to recreate the experiment from scratch, do the following:
 		-feature_list.txt - feature dictionary
 		-labels.txt - labels aligned with using_files
 		-feature_matrix.txt -  contains sentence vectors, encoded using feature_list
-
-2. Run shuffle_results.py 
-
-	-Outputs as pickle dumps:
+		
+2. Run shuffle_results.py
+	- Outputs as pickle dumps
 		-training/test_labels.txt: Shuffled 80-20 division of labels.txt
 		-training/test_matrix.txt: Shuffled (same) 80-20 division of feature_matrix.txt
 
