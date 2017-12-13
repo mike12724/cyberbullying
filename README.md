@@ -14,7 +14,7 @@ You will find 2 hyperparameters
 	- default: 1 and 1
 
 1.5 Run parse_data
-	- Requires a folder titled "Myspace" in the same folder as parse_data
+	-Requires a folder titled "Myspace" in the same folder as parse_data
 	-Requires a folder titled "Bully output" inside "Myspace", containing files like the sample one provided
 	-Requires XML files of conversations inside "Myspace"
 	-Outputs as pickle dumps:
